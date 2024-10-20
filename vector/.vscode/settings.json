@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "vector.h": "c",
+        "stddef.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c",
+        "tests.h": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

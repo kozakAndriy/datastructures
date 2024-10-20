@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stddef.h": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "functional": "c",
+        "avl.h": "c",
+        "stdlib.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c"
+    }
+}
